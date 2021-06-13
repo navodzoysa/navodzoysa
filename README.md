@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello there 👋
+
+- 🔭 I'm currently a Computer Science Undergraduate.
+- 🌱 I’m currently learning Node.js.
+- 👯 I’m looking to collaborate on Open Source Projects.
+- 🤔 I’m looking for help with improving my software development knowledge and helping someone else improve their knowledge.
+- 💬 Ask me about technology, gaming, music and existence of life.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/navodzoysa/">LinkedIn</a> <a href="mailto:navod.zoysa@gmail.com">Email</a> <a href="https://twitter.com/navodzoysa">Twitter</a>
+- ⚡ Fun fact: TYPEWRITER is the longest word that can be made using the letters only on one row of the keyboard.
 
 <!--
 **navodzoysa/navodzoysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
