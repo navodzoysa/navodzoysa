@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 🤔 I’m looking for help with improving my software development knowledge and helping someone else improve their knowledge.
 - 💬 Ask me about anything.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/navodzoysa/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a> <a href="mailto:navod.zoysa@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" /></a> <a href="https://twitter.com/navodzoysa"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/navodzoysa/" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a> <a href="mailto:navod.zoysa@gmail.com" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" /></a> <a href="https://twitter.com/navodzoysa" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" /></a>
 - ⚡ Fun fact: TYPEWRITER is the longest word that can be made using the letters only on one row of the keyboard.
 
 ---
