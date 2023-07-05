@@ -1,6 +1,6 @@
 # Hello there 👋
 
-- 🔭 I'm currently working as a Associate Software Engineer at &nbsp;<a href="https://entgra.io/" target="_blank"><img height="25" src="https://entgra.io/wp-content/uploads/2021/11/logo-150x43.png"></a>
+- 🔭 I'm currently working as a Software Engineer at &nbsp;<a href="https://entgra.io/" target="_blank"><img height="25" src="https://entgra.io/wp-content/uploads/2021/11/logo-150x43.png"></a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/navodzoysa/" target="_blank"><img height="25" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /></a> <a href="mailto:navod.contact@gmail.com" target="_blank"><img height="25" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" /></a>
 
 ---
